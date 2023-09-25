@@ -1,2 +1,2 @@
-# create-plugin-marko
-Sample of Multipple's plugin project using marko.js
+# create-component-marko
+Sample of UI component project using marko.js
