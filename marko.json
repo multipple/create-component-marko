@@ -1,0 +1,5 @@
+{
+  "<HelloWorld>": {
+    "template": "./src/index.marko"
+  }
+}
