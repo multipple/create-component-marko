@@ -1,0 +1,25 @@
+{
+  "type": "component",
+  "name": "SampleComponent",
+  "namespace": "multipple",
+  "nsi": "sample-component",
+  "description": "Sample component",
+  "version": "1.0",
+  "favicon": "favicon.png",
+  "categories": ["test"],
+  "runscript": {
+    "*": {
+      "workspace": "qs",
+      "autoload": true
+    }
+  },
+  "resource": {
+    "dependencies": [],
+    "permissions": {},
+    "services": {}
+  },
+  "author": {
+    "type": "developer",
+    "name": "Multipple"
+  }
+}
